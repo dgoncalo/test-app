@@ -157,10 +157,3 @@ Contributing
 License
 - MIT — see package.json "license": "MIT".
 - By contributing you agree to license your contributions under the same MIT license.
-
----
-
-If you'd like, I can:
-- Generate a CONTRIBUTING.md template.
-- Add example question entries for new categories.
-- Create a sample automated test to validate question JSON structure.
