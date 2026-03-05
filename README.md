@@ -47,3 +47,24 @@ This README was created based on the repository contents: index.js, package.json
 ## License
 
 See repository for license information.
+
+## How to run the project
+
+Entrypoint: index.js
+
+Run using npm:
+
+```
+npm start
+```
+
+Or run directly with Node:
+
+```
+node index.js
+```
+
+Quick usage notes:
+- The CLI prompts you to select a question category and the number of questions to attempt (e.g., All, 3, 5).
+- Answer each question by entering the number corresponding to the chosen option.
+- The app provides immediate per-question feedback, shows a final score, and offers a review of incorrect answers.
