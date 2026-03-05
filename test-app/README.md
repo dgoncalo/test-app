@@ -25,3 +25,12 @@ cd test-app/test-app
 ```
 
 Note: This project has no external dependencies; there is no need to run npm install. The project uses ES modules (package.json "type": "module") and requires Node 18 or newer.
+
+## Key features
+
+- Interactive category selection
+- Configurable question count (select All or specific counts like 3 or 5)
+- Immediate per-question feedback
+- Final score summary and review of incorrect answers
+- Pure Node.js implementation using ES modules (no external dependencies)
+- Questions stored in data/questions.json for easy editing or extension
