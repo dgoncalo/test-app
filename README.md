@@ -10,3 +10,40 @@ Add README for quiz-cli (interactive CLI quiz app)
 - Requirements
 - Repository files
 - License
+
+## Summary
+
+This README adds a brief description and instructions for the quiz-cli interactive CLI quiz app. It documents how to install and run the app and notes the Node.js requirement.
+
+## Installation
+
+1. Clone the repository:
+
+   git clone https://github.com/dgoncalo/test-app.git
+   cd test-app
+
+2. Install dependencies:
+
+   npm install
+
+## Running the app
+
+Start the quiz from the project root:
+
+   node index.js
+
+or, if using npm scripts (if defined in package.json):
+
+   npm start
+
+## Requirements
+
+- Node.js >= 18
+
+## Repository files
+
+This README was created based on the repository contents: index.js, package.json, data/questions.json, src/.
+
+## License
+
+See repository for license information.
